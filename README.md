@@ -17,6 +17,7 @@
 
 ## 📁 Project Structure
 MeowMaze
+
 ├── main.pyde # Main game file (Processing/Python mode)
 
 ├── images/ # Sprites, backgrounds, etc.
