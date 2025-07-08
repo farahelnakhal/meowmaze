@@ -24,7 +24,7 @@ MeowMaze
 
 ├── sounds/ # Game audio files
 
-├── README.md # You’re reading it :)
+└── README.md # You’re reading it :)
 
 ## 👩‍💻 Made By
 - Farah Elnakhal  
