@@ -18,8 +18,11 @@
 ## 📁 Project Structure
 MeowMaze
 ├── main.pyde # Main game file (Processing/Python mode)
+
 ├── images/ # Sprites, backgrounds, etc.
+
 ├── sounds/ # Game audio files
+
 └── README.md # You’re reading it :)
 
 ## 👩‍💻 Made By
